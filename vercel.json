@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_REST_API_ENDPOINT": "https://transfer-z.com/backend",
+      "NEXT_PUBLIC_SHOP_URL": "https://v2-ashy-beta.vercel.app"
+    }
+  }
+}
